@@ -5,7 +5,7 @@ void UnevenNumbers(int[] arr)
     {
         Console.Write(arr[i] + " ");
     }
-    Console.Write("Не четные числа: ");
+    Console.Write("Сумма нечетных чисел: ");
     int Uneven = 0;
      for (int i = 0; i < arr.Length; i++)
     {
